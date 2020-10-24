@@ -1,0 +1,4 @@
+[servers]
+server1 ansible_host=10.128.0.14 ansible_ssh_user=ansible
+server2 ansible_host=10.128.0.12 ansible_ssh_user=ansible
+server3 ansible_host=10.128.0.13 ansible_ssh_user=ansible
